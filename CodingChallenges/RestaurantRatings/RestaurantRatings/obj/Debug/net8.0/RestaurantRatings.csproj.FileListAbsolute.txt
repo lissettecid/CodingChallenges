@@ -1,0 +1,14 @@
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\bin\Debug\net8.0\RestaurantRatings.exe
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\bin\Debug\net8.0\RestaurantRatings.deps.json
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\bin\Debug\net8.0\RestaurantRatings.runtimeconfig.json
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\bin\Debug\net8.0\RestaurantRatings.dll
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\bin\Debug\net8.0\RestaurantRatings.pdb
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\RestaurantRatings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\RestaurantRatings.AssemblyInfoInputs.cache
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\RestaurantRatings.AssemblyInfo.cs
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\RestaurantRatings.csproj.CoreCompileInputs.cache
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\RestaurantRatings.dll
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\refint\RestaurantRatings.dll
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\RestaurantRatings.pdb
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\RestaurantRatings.genruntimeconfig.cache
+C:\Users\lizzi\repository\CodingChallenges\RestaurantRatings\RestaurantRatings\obj\Debug\net8.0\ref\RestaurantRatings.dll

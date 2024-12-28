@@ -1,0 +1,14 @@
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\bin\Debug\net8.0\ArrayChallenges.exe
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\bin\Debug\net8.0\ArrayChallenges.deps.json
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\bin\Debug\net8.0\ArrayChallenges.runtimeconfig.json
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\bin\Debug\net8.0\ArrayChallenges.dll
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\bin\Debug\net8.0\ArrayChallenges.pdb
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ArrayChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ArrayChallenges.AssemblyInfoInputs.cache
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ArrayChallenges.AssemblyInfo.cs
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ArrayChallenges.csproj.CoreCompileInputs.cache
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ArrayChallenges.dll
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\refint\ArrayChallenges.dll
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ArrayChallenges.pdb
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ArrayChallenges.genruntimeconfig.cache
+C:\Users\lizzi\repository\CodingChallenges\CodingChallenges\ArrayChallenges\obj\Debug\net8.0\ref\ArrayChallenges.dll
